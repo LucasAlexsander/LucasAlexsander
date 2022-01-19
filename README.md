@@ -1,4 +1,6 @@
-<h1 align='center'> Hi! 👋</h1>
+<body background-color='red'>
+ 
+ <h1 align='center'> Hi! 👋</h1>
 
 <h3 style='left'>Languages:</h3>
 <div style='left'>
@@ -24,3 +26,5 @@
 <div style='left'>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
+
+</body>
