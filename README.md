@@ -17,5 +17,5 @@
 
 <h3 align="left">Design Tools:</h3>
 <div style='left'>
-<img alt="Canva" src"https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=Canva&logoColor=white"
+<img alt="Canva" src"https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </ div>
