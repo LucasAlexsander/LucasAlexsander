@@ -16,7 +16,7 @@
  
 <h3 style='left'>IDEs and Editors:</h3>
 <div style='left'>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-darkgrey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-83818E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 
