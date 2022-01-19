@@ -8,4 +8,4 @@
 </div>
 
 <h3 style='left'>IDEs and Editors:</h3>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-lightgrey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-darkgrey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
