@@ -6,3 +6,6 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=white" />
 </div>
+
+<h3 style='left'>IDEs and Editors:</h3>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-darkgrey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
