@@ -8,6 +8,7 @@
 <img alt="C++" src="https://img.shields.io/badge/c++-474948.svg?style=for-the-badge&logo=c++&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/sql-green.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 </div>
 
 <h3 align="left">Databases:</h3>
