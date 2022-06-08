@@ -25,3 +25,14 @@
 <div style='left'>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
+
+<div style="display: inline_block">
+  <h2 >Contato</h2>
+   <a href="https://www.linkedin.com/in" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariano.silva@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div> 
+  
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/LucasAlexsander">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-SI&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mariano-si&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
+</div>
