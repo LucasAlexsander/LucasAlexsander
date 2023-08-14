@@ -13,6 +13,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+</br>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 <h3 align="left">Databases:</h3>
@@ -28,6 +30,7 @@
 <h3 align="left">Design Tools:</h3>
 <div style='left'>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 <div style="display: inline_block">
